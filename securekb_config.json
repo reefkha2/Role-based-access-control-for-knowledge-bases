@@ -1,0 +1,10 @@
+{
+  "document_bucket": "securekb-documents-1750526826",
+  "processed_chunks_bucket": "securekb-processed-1750526826",
+  "user_pool_id": "us-west-2_MHlMEnaEA",
+  "user_pool_client_id": "2ru0cna7u4vdmhhe6m844tf9ck",
+  "api_url": "https://rxdq296lnh.execute-api.us-west-2.amazonaws.com/prod",
+  "document_processor_arn": "arn:aws:lambda:us-west-2:208476320381:function:SecureKB-DocumentProcessor",
+  "metadata_tagger_arn": "arn:aws:lambda:us-west-2:208476320381:function:SecureKB-MetadataTagger",
+  "query_processor_arn": "arn:aws:lambda:us-west-2:208476320381:function:SecureKB-QueryProcessor"
+}
